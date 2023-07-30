@@ -1,7 +1,28 @@
 {
   "mentores": [],
   "mentorias": [],
-  "semanas": [],
+  "semanas": [
+    {
+      "semana": "Segunda-feira",
+      "id": 1
+    },
+    {
+      "semana": "Terça-feira",
+      "id": 2
+    },
+    {
+      "semana": "Quarta-feira",
+      "id": 3
+    },
+    {
+      "semana": "Quinta-feira",
+      "id": 4
+    },
+    {
+      "semana": "Sexta-feira",
+      "id": 5
+    }
+  ],
   "turmas": [],
   "alunos": []
 }
